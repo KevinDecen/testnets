@@ -34,12 +34,10 @@ sha256sum genesis.json
       name: realio-network
       server_name: realio-networkd
       version: 1.3.0
-
-
-
-
     ```
 
 ## Seeds & Peers
 
-Pop in the [ testnet seed channel on discord](https://discord.gg/Nv9EUbRnKb) and ask for a peer/seed node
+```bash
+7209cbeb9bafb98add50ae29aa86524e11a4be9b@65.109.92.163:18020,e122b19623b6da8ef61775b9511a9b9470142263@65.21.197.14:26656
+```
